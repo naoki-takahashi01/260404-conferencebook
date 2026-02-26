@@ -41,6 +41,7 @@ const def = {
 	"chap-viva.md",
 	"chap-syossan27.md",
 	"chap-comi-cnannotOutput.md",
+  "chap-takahashin-inputnooutput.md",
 
     // 後書き
     "90-postscript.md",
@@ -87,3 +88,4 @@ if (isPrint) {
 }
 
 export default def;
+
